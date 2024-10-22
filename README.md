@@ -61,3 +61,6 @@ Jika benar (input = 0), program akan:
 Jika bilangan yang baru dimasukkan lebih besar dari nilai `Max` saat ini, maka:
 
 Nilai `Max` diperbarui menjadi bilangan tersebut.
+
+## hasil eksekusi kode program
+![foto](https://github.com/zyyyyyyskrtt/foto/blob/ee1b53329dcafc61841ee3c254d21e34d812df4a/Screenshot%202024-10-22%20192033.png)
